@@ -1,0 +1,23 @@
+{
+  "name": "express-azure-backup",
+  "version": "1.0.0",
+  "description": "A middleware built to start an Azure backup job.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "Keywords": [
+    "azure",
+    "backup",
+    "express"
+  ],
+  "author": "jill@samret.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jillmnolan/express-azure-backup/issues"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1"
+  }
+}
