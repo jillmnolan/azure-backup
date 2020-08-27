@@ -1,5 +1,5 @@
 {
-  "name": "express-azure-backup",
+  "name": "azure-backup",
   "version": "1.0.0",
   "description": "A middleware built to start an Azure backup job.",
   "main": "index.js",
